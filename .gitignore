@@ -1,0 +1,14 @@
+
+# Arquivos de Ambiente
+.env
+
+# Pasta de Mídia (Uploads de usuário)
+/media/
+
+# Pasta do Ambiente Virtual
+.venv/
+venv/
+
+# Arquivos do Python
+_pycache_/
+*.pyc

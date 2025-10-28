@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  
+  <h2>Deletar Review</h2>
+  <p>Você tem certeza que quer deletar o seu review: 
+     <strong>"{{ review.titulo_review }}"</strong>?
+  </p>
+  <p>Esta ação não pode ser desfeita.</p>
+
+  <form method="post">
+    {% csrf_token %}
+    <button type="submit">Sim, deletar</button>
+    
+    <a href="{% url 'tenis-detail' review.tenis.pk %}">Cancelar</a>
+  </form>
+
+{% endblock %}

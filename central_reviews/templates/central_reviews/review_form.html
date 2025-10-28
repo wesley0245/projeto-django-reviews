@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  
+  {% if object %}
+    <h2>Editar seu Review</h2>
+  {% else %}
+    <h2>Escrever um Novo Review</h2>
+  {% endif %}
+
+  <form method="post">
+    {% csrf_token %}
+    
+    {{ form.as_p }}
+    
+    <button type="submit">Salvar Review</button>
+  </form>
+
+{% endblock %}

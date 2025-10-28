@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>Todos os Tênis</h2>
+
+  <form method="get" action="{% url 'homepage' %}">
+    <input type="text" name="q" placeholder="Buscar por nome ou marca..." value="{{ request.GET.q }}">
+    <button type="submit">Buscar</button>
+  </form>
+  <hr>
+
+  {% if tenis_list %}
+    <ul class="tenis-list"> 
+      {% for tenis in tenis_list %}
+        <li class="tenis-list-item">
+          <h3>
+            <a href="{% url 'tenis-detail' tenis.pk %}">{{ tenis.marca }} {{ tenis.nome }}</a>
+          </h3>
+          <p>Categoria: {{ tenis.categoria.nome }}</p>
+          
+          {% if tenis.imagem_principal %}
+            <img src="{{ tenis.imagem_principal.url }}" alt="{{ tenis.nome }}" width="200">
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>Nenhum tênis cadastrado ainda.</p>
+  {% endif %}
+
+  <div class="pagination">
+    <span class="step-links">
+        {% if page_obj.has_previous %}
+            <a href="?page=1">&laquo; primeira</a>
+            <a href="?page={{ page_obj.previous_page_number }}">anterior</a>
+        {% endif %}
+
+        <span class="current">
+            Página {{ page_obj.number }} de {{ page_obj.paginator.num_pages }}.
+        </span>
+
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}">próxima</a>
+            <a href="?page={{ page_obj.paginator.num_pages }}">última &raquo;</a>
+        {% endif %}
+    </span>
+  </div>
+  
+{% endblock %}

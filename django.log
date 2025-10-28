@@ -1,0 +1,876 @@
+INFO 2025-10-26 15:02:08,079 autoreload Watching for file changes with StatReloader
+WARNING 2025-10-26 15:02:36,273 log Not Found: /
+WARNING 2025-10-26 15:02:36,378 basehttp "GET / HTTP/1.1" 404 2326
+WARNING 2025-10-26 15:02:36,473 log Not Found: /
+WARNING 2025-10-26 15:02:36,473 basehttp "GET / HTTP/1.1" 404 2326
+WARNING 2025-10-26 15:02:39,464 log Not Found: /favicon.ico
+WARNING 2025-10-26 15:02:39,465 basehttp "GET /favicon.ico HTTP/1.1" 404 2377
+INFO 2025-10-26 15:39:02,747 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 15:46:14,240 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 15:54:30,681 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:07:05,662 autoreload Watching for file changes with StatReloader
+WARNING 2025-10-26 16:07:50,462 log Not Found: /
+WARNING 2025-10-26 16:07:50,480 basehttp "GET / HTTP/1.1" 404 2478
+INFO 2025-10-26 16:08:35,074 basehttp "GET /admin/ HTTP/1.1" 200 9678
+INFO 2025-10-26 16:08:35,331 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,345 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,358 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,361 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,370 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,388 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,388 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,613 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-10-26 16:08:35,618 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+WARNING 2025-10-26 16:14:52,248 log Not Found: /accounts
+WARNING 2025-10-26 16:14:52,258 basehttp "GET /accounts HTTP/1.1" 404 2520
+INFO 2025-10-26 16:15:03,916 basehttp "GET /accounts/login HTTP/1.1" 301 0
+INFO 2025-10-26 16:15:05,143 basehttp "GET /accounts/login/ HTTP/1.1" 200 1220
+INFO 2025-10-26 16:15:33,415 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+WARNING 2025-10-26 16:15:33,454 log Not Found: /
+WARNING 2025-10-26 16:15:33,454 basehttp "GET / HTTP/1.1" 404 2478
+INFO 2025-10-26 16:15:43,028 basehttp "GET /accounts/login/ HTTP/1.1" 200 1220
+INFO 2025-10-26 16:15:46,282 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2044
+INFO 2025-10-26 16:17:56,216 basehttp "POST /accounts/cadastro/ HTTP/1.1" 200 2303
+INFO 2025-10-26 16:20:05,684 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\config\settings.py changed, reloading.
+INFO 2025-10-26 16:20:09,289 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:20:10,803 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\config\settings.py changed, reloading.
+INFO 2025-10-26 16:20:12,364 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:20:42,190 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\config\settings.py changed, reloading.
+INFO 2025-10-26 16:20:44,093 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:20:48,922 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\config\settings.py changed, reloading.
+INFO 2025-10-26 16:20:50,146 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:20:51,755 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\config\settings.py changed, reloading.
+INFO 2025-10-26 16:20:53,391 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:20:56,101 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\config\settings.py changed, reloading.
+INFO 2025-10-26 16:20:57,209 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:21:04,124 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\config\settings.py changed, reloading.
+INFO 2025-10-26 16:21:05,865 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:21:32,656 basehttp "POST /accounts/cadastro/ HTTP/1.1" 200 2345
+INFO 2025-10-26 16:27:50,104 basehttp "POST /accounts/cadastro/ HTTP/1.1" 302 0
+INFO 2025-10-26 16:27:50,554 basehttp "GET /accounts/login/ HTTP/1.1" 200 1479
+INFO 2025-10-26 16:32:04,693 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+WARNING 2025-10-26 16:32:04,927 log Not Found: /
+WARNING 2025-10-26 16:32:04,931 basehttp "GET / HTTP/1.1" 404 2478
+INFO 2025-10-26 16:47:44,562 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 16:47:57,122 basehttp "GET / HTTP/1.1" 200 1003
+INFO 2025-10-26 16:47:58,621 basehttp "GET /media/tenis_imagens/numero_camisa.png HTTP/1.1" 200 204711
+WARNING 2025-10-26 16:48:51,588 log Method Not Allowed (GET): /accounts/logout/
+WARNING 2025-10-26 16:48:51,616 basehttp "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2025-10-26 17:09:07,434 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 17:09:10,504 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 17:09:12,173 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 17:09:15,150 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 17:25:14,079 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 17:25:22,694 basehttp "GET / HTTP/1.1" 200 1020
+INFO 2025-10-26 17:25:27,119 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 763
+INFO 2025-10-26 17:31:08,491 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 17:31:12,417 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 17:49:07,659 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 17:49:17,175 basehttp "GET / HTTP/1.1" 200 1020
+INFO 2025-10-26 17:49:24,712 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 857
+ERROR 2025-10-26 17:49:34,159 log Internal Server Error: /accounts/tenis/1/review/novo/
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: central_reviews/review_form.html
+ERROR 2025-10-26 17:49:34,181 basehttp "GET /accounts/tenis/1/review/novo/ HTTP/1.1" 500 84009
+ERROR 2025-10-26 17:50:00,278 log Internal Server Error: /accounts/tenis/1/review/novo/
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: central_reviews/review_form.html
+ERROR 2025-10-26 17:50:00,299 basehttp "GET /accounts/tenis/1/review/novo/ HTTP/1.1" 500 84009
+INFO 2025-10-26 17:52:52,288 basehttp "GET /accounts/tenis/1/review/novo/ HTTP/1.1" 200 1455
+INFO 2025-10-26 17:54:39,581 basehttp "POST /accounts/tenis/1/review/novo/ HTTP/1.1" 302 0
+INFO 2025-10-26 17:54:40,102 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 985
+INFO 2025-10-26 17:57:13,761 basehttp "GET /accounts/tenis/1/review/novo/ HTTP/1.1" 200 1455
+INFO 2025-10-26 17:57:27,336 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 985
+WARNING 2025-10-26 17:57:32,127 log Method Not Allowed (GET): /accounts/logout/
+WARNING 2025-10-26 17:57:32,128 basehttp "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2025-10-26 17:57:40,384 basehttp "GET / HTTP/1.1" 200 1020
+INFO 2025-10-26 19:36:50,006 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 19:37:11,424 basehttp "GET / HTTP/1.1" 200 1020
+WARNING 2025-10-26 19:37:12,745 log Not Found: /favicon.ico
+WARNING 2025-10-26 19:37:12,748 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-26 19:37:19,075 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1141
+INFO 2025-10-26 19:37:25,141 basehttp "GET /accounts/review/1/editar/ HTTP/1.1" 200 1487
+INFO 2025-10-26 19:37:37,523 basehttp "GET /accounts/review/1/deletar/ HTTP/1.1" 200 928
+INFO 2025-10-26 19:37:51,316 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1141
+WARNING 2025-10-26 19:38:11,215 log Method Not Allowed (GET): /accounts/logout/
+WARNING 2025-10-26 19:38:11,264 basehttp "GET /accounts/logout/ HTTP/1.1" 405 0
+WARNING 2025-10-26 19:38:53,129 log Method Not Allowed (GET): /accounts/logout/
+WARNING 2025-10-26 19:38:53,151 basehttp "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2025-10-26 19:44:53,303 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1494
+INFO 2025-10-26 19:44:53,411 basehttp "GET /media/tenis_imagens/numero_camisa.png HTTP/1.1" 304 0
+INFO 2025-10-26 19:44:56,185 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:44:56,385 basehttp "GET / HTTP/1.1" 200 1054
+INFO 2025-10-26 19:45:04,819 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1060
+INFO 2025-10-26 19:45:15,183 basehttp "GET /accounts/login/?next=/accounts/tenis/1/ HTTP/1.1" 200 1251
+INFO 2025-10-26 19:45:28,651 basehttp "POST /accounts/login/?next=/accounts/tenis/1/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:45:28,934 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1361
+INFO 2025-10-26 19:45:49,688 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:45:49,975 basehttp "GET / HTTP/1.1" 200 1054
+INFO 2025-10-26 19:45:52,756 basehttp "GET /accounts/login/ HTTP/1.1" 200 1251
+INFO 2025-10-26 19:46:06,920 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:46:07,345 basehttp "GET / HTTP/1.1" 200 1373
+INFO 2025-10-26 19:46:11,339 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1494
+INFO 2025-10-26 19:46:16,055 basehttp "GET /accounts/review/1/editar/ HTTP/1.1" 200 1840
+INFO 2025-10-26 19:46:23,574 basehttp "GET /accounts/review/1/deletar/ HTTP/1.1" 200 1281
+INFO 2025-10-26 19:46:25,937 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1494
+INFO 2025-10-26 19:47:00,471 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:47:00,706 basehttp "GET / HTTP/1.1" 200 1054
+INFO 2025-10-26 19:47:02,489 basehttp "GET /accounts/login/ HTTP/1.1" 200 1251
+INFO 2025-10-26 19:47:17,474 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:47:17,700 basehttp "GET / HTTP/1.1" 200 1373
+INFO 2025-10-26 19:47:19,921 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1361
+INFO 2025-10-26 19:47:24,689 basehttp "GET /accounts/tenis/1/review/novo/ HTTP/1.1" 200 1808
+INFO 2025-10-26 19:48:24,874 basehttp "POST /accounts/tenis/1/review/novo/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:48:25,112 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1689
+INFO 2025-10-26 19:49:02,111 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:49:02,382 basehttp "GET / HTTP/1.1" 200 1054
+INFO 2025-10-26 19:49:04,837 basehttp "GET /accounts/login/ HTTP/1.1" 200 1251
+INFO 2025-10-26 19:49:21,943 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:49:22,271 basehttp "GET / HTTP/1.1" 200 1373
+INFO 2025-10-26 19:49:30,755 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1689
+INFO 2025-10-26 19:49:37,189 basehttp "GET /accounts/review/1/editar/ HTTP/1.1" 200 1840
+INFO 2025-10-26 19:49:46,610 basehttp "POST /accounts/review/1/editar/ HTTP/1.1" 302 0
+INFO 2025-10-26 19:49:46,848 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1689
+INFO 2025-10-26 20:08:48,137 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:08:59,781 basehttp "GET / HTTP/1.1" 200 1550
+INFO 2025-10-26 20:09:35,582 basehttp "GET /?q=corre+2 HTTP/1.1" 200 1557
+INFO 2025-10-26 20:09:46,540 basehttp "GET /?q=nike HTTP/1.1" 200 1285
+INFO 2025-10-26 20:13:02,931 basehttp "GET /?q=todos HTTP/1.1" 200 1286
+INFO 2025-10-26 20:13:14,215 basehttp "GET /?q=corre HTTP/1.1" 200 1555
+INFO 2025-10-26 20:13:27,585 basehttp "GET /?q=corrida HTTP/1.1" 200 1288
+INFO 2025-10-26 20:13:31,585 basehttp "GET /?q=corrida HTTP/1.1" 200 1288
+INFO 2025-10-26 20:16:15,267 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:16:18,384 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:16:21,532 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:16:23,903 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:16:43,110 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:16:46,953 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:16:55,364 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:16:59,286 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:17:04,769 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:17:07,560 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:17:15,245 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:17:17,817 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:17:25,811 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:17:28,275 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:17:41,139 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:17:46,604 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:17:51,708 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:17:54,946 autoreload Watching for file changes with StatReloader
+ERROR 2025-10-26 20:18:20,279 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:18:20,352 basehttp "GET /?q=corrida HTTP/1.1" 500 138514
+WARNING 2025-10-26 20:18:21,878 log Not Found: /favicon.ico
+WARNING 2025-10-26 20:18:21,881 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+ERROR 2025-10-26 20:18:38,855 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:18:38,895 basehttp "GET /?q=corrida HTTP/1.1" 500 138247
+INFO 2025-10-26 20:23:11,217 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:23:15,738 autoreload Watching for file changes with StatReloader
+ERROR 2025-10-26 20:23:57,371 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_nome_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:23:57,442 basehttp "GET /?q=corrida HTTP/1.1" 500 138352
+ERROR 2025-10-26 20:25:31,778 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_nome_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:25:31,821 basehttp "GET /?q=corre HTTP/1.1" 500 138272
+INFO 2025-10-26 20:26:21,322 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:26:33,076 basehttp "GET / HTTP/1.1" 200 1550
+ERROR 2025-10-26 20:26:42,188 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_nome_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:26:42,204 basehttp "GET /?q=corre HTTP/1.1" 500 138264
+ERROR 2025-10-26 20:27:06,220 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_nome_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:27:06,254 basehttp "GET /?q=Olympikus+Corre+2 HTTP/1.1" 500 138744
+ERROR 2025-10-26 20:27:20,473 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_nome_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:27:20,487 basehttp "GET /?q=Olympikus+Corre+2 HTTP/1.1" 500 138744
+INFO 2025-10-26 20:32:05,461 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:32:14,885 basehttp "GET / HTTP/1.1" 200 1550
+ERROR 2025-10-26 20:32:24,801 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py", line 72, in get_queryset
+    queryset = queryset.filter(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1503, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\venv\Lib\site-packages\django\db\models\sql\query.py", line 1806, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'categoria_nome_icontains' into field. Choices are: categoria, categoria_id, id, imagem_principal, marca, nome, reviews
+ERROR 2025-10-26 20:32:24,826 basehttp "GET /?q=corre HTTP/1.1" 500 138261
+INFO 2025-10-26 20:38:23,899 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:38:28,767 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:38:36,296 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-26 20:38:40,985 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:38:52,751 basehttp "GET / HTTP/1.1" 200 1550
+INFO 2025-10-26 20:38:53,515 basehttp "GET /media/tenis_imagens/numero_camisa.png HTTP/1.1" 200 204711
+WARNING 2025-10-26 20:38:53,652 log Not Found: /favicon.ico
+WARNING 2025-10-26 20:38:53,653 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-26 20:38:59,845 basehttp "GET /?q=nike HTTP/1.1" 200 1285
+INFO 2025-10-26 20:39:08,901 basehttp "GET /?q=corre HTTP/1.1" 200 1555
+INFO 2025-10-26 20:39:38,915 basehttp "GET /?q=corrida HTTP/1.1" 200 1288
+INFO 2025-10-26 20:40:02,145 basehttp "GET /?q=olympikus HTTP/1.1" 200 1559
+INFO 2025-10-26 20:49:56,536 basehttp "GET / HTTP/1.1" 200 1550
+INFO 2025-10-26 20:50:02,993 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-26 20:50:03,975 basehttp "GET / HTTP/1.1" 200 1231
+INFO 2025-10-26 20:50:19,202 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2115
+INFO 2025-10-26 20:51:46,782 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2115
+INFO 2025-10-26 20:54:04,162 autoreload Watching for file changes with StatReloader
+INFO 2025-10-26 20:54:16,366 basehttp "GET / HTTP/1.1" 200 1231
+WARNING 2025-10-26 20:54:22,723 log Not Found: /favicon.ico
+WARNING 2025-10-26 20:54:22,727 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-26 20:54:36,328 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2115
+INFO 2025-10-26 20:55:44,135 basehttp "POST /accounts/cadastro/ HTTP/1.1" 302 0
+INFO 2025-10-26 20:55:44,428 basehttp "GET /accounts/login/ HTTP/1.1" 200 1513
+INFO 2025-10-26 20:56:08,870 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2115
+INFO 2025-10-26 20:56:17,687 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1255
+INFO 2025-10-26 20:57:04,616 basehttp "GET /accounts/login/ HTTP/1.1" 200 1251
+INFO 2025-10-26 20:57:29,382 basehttp "GET /accounts/login/?next=/accounts/tenis/1/ HTTP/1.1" 200 1251
+INFO 2025-10-26 20:57:47,719 basehttp "POST /accounts/login/?next=/accounts/tenis/1/ HTTP/1.1" 302 0
+INFO 2025-10-26 20:57:48,203 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1689
+INFO 2025-10-26 20:58:34,160 basehttp "GET /accounts/tenis/1/review/novo/ HTTP/1.1" 200 1808
+INFO 2025-10-26 20:58:52,739 basehttp "GET /accounts/review/1/editar/ HTTP/1.1" 200 1840
+INFO 2025-10-26 20:59:05,833 basehttp "GET /accounts/review/1/deletar/ HTTP/1.1" 200 1281
+INFO 2025-10-26 21:01:47,244 basehttp "GET /accounts/login/?next=/accounts/tenis/1/ HTTP/1.1" 200 1570
+INFO 2025-10-26 21:01:49,957 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-26 21:01:50,218 basehttp "GET / HTTP/1.1" 200 1231
+INFO 2025-10-26 21:02:05,917 basehttp "GET /?q=corrida HTTP/1.1" 200 969
+INFO 2025-10-26 21:02:19,437 basehttp "GET /?q=corre HTTP/1.1" 200 1236
+INFO 2025-10-26 21:02:43,458 basehttp "GET /?q=nike HTTP/1.1" 200 966
+INFO 2025-10-27 17:12:47,193 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:14:49,013 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:15:34,695 basehttp "GET / HTTP/1.1" 200 1340
+INFO 2025-10-27 17:15:34,839 basehttp "GET /media/tenis_imagens/numero_camisa.png HTTP/1.1" 304 0
+INFO 2025-10-27 17:15:36,370 basehttp "GET /static/css/style.css HTTP/1.1" 200 3615
+WARNING 2025-10-27 17:15:36,570 log Not Found: /favicon.ico
+WARNING 2025-10-27 17:15:36,576 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-27 17:16:04,296 basehttp "GET /?q=nike HTTP/1.1" 200 1031
+INFO 2025-10-27 17:16:16,062 basehttp "GET /?q=olympikus HTTP/1.1" 200 1349
+INFO 2025-10-27 17:16:18,975 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1401
+INFO 2025-10-27 17:22:04,970 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\views.py changed, reloading.
+INFO 2025-10-27 17:22:26,930 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:22:49,247 basehttp "GET /?q=adidas HTTP/1.1" 200 1033
+INFO 2025-10-27 17:22:49,359 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:25,799 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:27:28,612 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4209
+INFO 2025-10-27 17:27:28,807 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:28,825 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:28,843 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:28,906 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:28,911 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:28,967 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:29,064 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:45,031 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:27:46,269 basehttp "GET /admin/ HTTP/1.1" 200 9824
+INFO 2025-10-27 17:27:46,553 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:46,900 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:46,935 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,444 basehttp "GET /admin/central_reviews/tenis/ HTTP/1.1" 200 10780
+INFO 2025-10-27 17:27:57,563 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,617 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,623 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,623 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,902 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,906 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,906 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,940 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:57,945 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:58,016 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:27:58,799 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:27:58,935 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-10-27 17:28:03,812 basehttp "GET /admin/central_reviews/tenis/1/change/ HTTP/1.1" 200 14306
+INFO 2025-10-27 17:28:04,017 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:28:04,028 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:28:04,118 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:28:04,199 basehttp "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2025-10-27 17:28:04,424 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-10-27 17:28:04,537 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-10-27 17:28:05,095 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:28:40,796 basehttp "POST /admin/central_reviews/tenis/1/change/ HTTP/1.1" 200 14610
+INFO 2025-10-27 17:28:42,338 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:29:10,507 basehttp "POST /admin/central_reviews/tenis/1/change/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:29:11,464 basehttp "GET /admin/central_reviews/tenis/ HTTP/1.1" 200 10995
+INFO 2025-10-27 17:29:13,844 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:29:14,705 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-10-27 17:29:28,369 basehttp "GET / HTTP/1.1" 200 1663
+INFO 2025-10-27 17:29:28,549 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:29:29,895 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 200 209815
+INFO 2025-10-27 17:29:36,314 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1839
+INFO 2025-10-27 17:29:36,360 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 304 0
+INFO 2025-10-27 17:30:01,962 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:30:04,555 basehttp "GET / HTTP/1.1" 200 1344
+INFO 2025-10-27 17:30:04,734 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 304 0
+INFO 2025-10-27 17:30:08,502 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2180
+INFO 2025-10-27 17:30:59,477 basehttp "POST /accounts/cadastro/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:30:59,575 basehttp "GET /accounts/login/ HTTP/1.1" 200 1578
+INFO 2025-10-27 17:32:20,139 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:32:20,510 basehttp "GET / HTTP/1.1" 200 1664
+INFO 2025-10-27 17:32:20,952 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:32:20,954 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 304 0
+INFO 2025-10-27 17:32:30,990 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1707
+INFO 2025-10-27 17:32:35,972 basehttp "GET /accounts/tenis/1/review/novo/ HTTP/1.1" 200 1874
+INFO 2025-10-27 17:33:25,416 basehttp "POST /accounts/tenis/1/review/novo/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:33:26,078 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 2052
+INFO 2025-10-27 17:33:26,354 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 304 0
+INFO 2025-10-27 17:33:51,644 basehttp "GET /accounts/review/3/deletar/ HTTP/1.1" 200 1344
+INFO 2025-10-27 17:33:57,314 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 2052
+INFO 2025-10-27 17:33:57,373 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 304 0
+INFO 2025-10-27 17:34:15,318 basehttp "GET / HTTP/1.1" 200 1664
+INFO 2025-10-27 17:36:04,561 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:36:05,001 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3741
+INFO 2025-10-27 17:36:21,106 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-10-27 17:36:21,489 basehttp "GET /admin/ HTTP/1.1" 200 10191
+INFO 2025-10-27 17:36:37,311 basehttp "GET /admin/auth/user/add/ HTTP/1.1" 200 14085
+INFO 2025-10-27 17:36:37,475 basehttp "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+INFO 2025-10-27 17:36:37,859 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:36:38,021 basehttp "GET /static/admin/js/unusable_password_field.js HTTP/1.1" 200 1480
+INFO 2025-10-27 17:36:47,561 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 14794
+INFO 2025-10-27 17:36:47,724 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-10-27 17:36:47,744 basehttp "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2025-10-27 17:36:47,938 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:36:48,161 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-10-27 17:37:07,460 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 9760
+INFO 2025-10-27 17:37:07,852 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:37:11,260 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 14794
+INFO 2025-10-27 17:37:11,453 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:37:13,179 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:37:13,366 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:37:16,690 basehttp "GET /admin/central_reviews/review/ HTTP/1.1" 200 11387
+INFO 2025-10-27 17:37:16,865 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:37:21,707 basehttp "GET /admin/central_reviews/tenis/ HTTP/1.1" 200 10780
+INFO 2025-10-27 17:37:21,949 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:37:27,496 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:37:27,702 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:37:30,032 basehttp "GET /admin/central_reviews/tenis/ HTTP/1.1" 200 10780
+INFO 2025-10-27 17:37:30,264 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:38:16,336 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:38:17,037 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:38:31,138 basehttp "GET /admin/central_reviews/categoria/1/change/ HTTP/1.1" 200 10528
+INFO 2025-10-27 17:38:31,458 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:38:35,680 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:38:38,024 basehttp "GET /admin/central_reviews/categoria/2/change/ HTTP/1.1" 200 10527
+INFO 2025-10-27 17:38:38,273 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:38:41,409 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:46:33,663 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 17:46:37,892 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:46:42,572 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 17:46:47,275 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:47:02,812 basehttp "GET /admin/central_reviews/review/ HTTP/1.1" 200 11387
+INFO 2025-10-27 17:47:05,747 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:47:20,289 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 17:47:22,924 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:47:58,769 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 17:48:01,805 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:48:03,796 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 17:48:05,132 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:50:31,808 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 17:51:04,542 basehttp "GET / HTTP/1.1" 200 1663
+INFO 2025-10-27 17:51:04,639 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-27 17:51:04,663 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 304 0
+INFO 2025-10-27 17:51:10,288 basehttp "GET /admin/ HTTP/1.1" 200 10191
+INFO 2025-10-27 17:51:16,327 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:51:16,571 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:51:19,502 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:51:19,664 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:51:24,069 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-27 17:51:24,307 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-27 17:51:24,443 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-10-27 17:51:24,443 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-10-27 17:51:24,444 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-10-27 17:51:24,450 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2025-10-27 17:51:24,509 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2025-10-27 17:51:24,616 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-10-27 17:51:24,624 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-10-27 17:51:24,626 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2025-10-27 17:51:24,629 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-10-27 17:51:24,721 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-10-27 17:51:24,725 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-10-27 17:51:24,730 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-10-27 17:51:24,756 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-10-27 17:51:24,796 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-10-27 17:51:24,831 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-10-27 17:51:24,876 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-10-27 17:51:24,910 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-10-27 17:51:24,910 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+WARNING 2025-10-27 17:51:24,978 log Not Found: /favicon.ico
+WARNING 2025-10-27 17:51:24,985 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-27 18:00:25,400 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 18:00:34,400 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 18:00:36,785 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 18:00:39,700 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 18:00:41,222 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 18:01:17,457 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 18:01:19,762 autoreload Watching for file changes with StatReloader
+INFO 2025-10-27 18:01:53,242 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-27 18:01:58,775 autoreload Watching for file changes with StatReloader
+INFO 2025-10-28 13:52:12,482 autoreload Watching for file changes with StatReloader
+INFO 2025-10-28 13:52:38,995 basehttp "GET / HTTP/1.1" 200 1663
+INFO 2025-10-28 13:52:42,931 basehttp "GET /media/tenis_imagens/Olympikus_Corre_4.jpg HTTP/1.1" 304 0
+INFO 2025-10-28 13:52:43,673 basehttp "GET /static/css/style.css HTTP/1.1" 200 3740
+WARNING 2025-10-28 13:52:45,231 log Not Found: /favicon.ico
+WARNING 2025-10-28 13:52:45,255 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-28 13:53:20,642 basehttp "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-10-28 13:53:21,034 basehttp "GET / HTTP/1.1" 200 1344
+INFO 2025-10-28 13:53:21,177 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 13:53:23,717 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2180
+INFO 2025-10-28 13:54:07,010 basehttp "POST /accounts/cadastro/ HTTP/1.1" 302 0
+INFO 2025-10-28 13:54:07,298 basehttp "GET /accounts/login/ HTTP/1.1" 200 1578
+INFO 2025-10-28 13:54:07,493 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:00:21,726 basehttp "GET /accounts/login/ HTTP/1.1" 200 1316
+INFO 2025-10-28 14:00:22,234 basehttp "GET /static/css/style.css HTTP/1.1" 200 3740
+WARNING 2025-10-28 14:00:23,774 log Not Found: /favicon.ico
+WARNING 2025-10-28 14:00:23,797 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-28 14:00:30,666 basehttp "GET /accounts/cadastro/ HTTP/1.1" 200 2180
+INFO 2025-10-28 14:00:30,938 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:01:18,991 basehttp "POST /accounts/cadastro/ HTTP/1.1" 302 0
+INFO 2025-10-28 14:01:19,130 basehttp "GET /accounts/login/ HTTP/1.1" 200 1578
+INFO 2025-10-28 14:01:19,423 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:02:01,128 basehttp "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-10-28 14:02:05,316 basehttp "GET / HTTP/1.1" 200 1663
+INFO 2025-10-28 14:02:07,320 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:02:25,628 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 1918
+INFO 2025-10-28 14:02:25,788 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:03:46,988 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-10-28 14:03:54,812 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3740
+INFO 2025-10-28 14:03:55,426 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:03:55,549 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:03:55,562 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:03:55,650 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:03:55,683 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:03:55,709 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:03:55,743 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:12,884 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-10-28 14:04:15,847 basehttp "GET /admin/ HTTP/1.1" 200 10191
+INFO 2025-10-28 14:04:21,212 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:22,511 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:22,785 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:30,852 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11135
+INFO 2025-10-28 14:04:31,586 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,602 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,604 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,642 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,644 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,732 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,732 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,788 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:31,856 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:32,044 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-10-28 14:04:44,970 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-28 14:04:46,117 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-10-28 14:05:43,520 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-28 14:06:00,229 autoreload Watching for file changes with StatReloader
+INFO 2025-10-28 14:06:11,733 autoreload C:\Users\wesle\OneDrive\햞ea de Trabalho\Web1\Provas\Web-I_estagio2\central_reviews\models.py changed, reloading.
+INFO 2025-10-28 14:06:31,494 autoreload Watching for file changes with StatReloader
+INFO 2025-10-28 14:08:10,308 autoreload Watching for file changes with StatReloader
+INFO 2025-10-28 14:10:57,679 autoreload Watching for file changes with StatReloader
+INFO 2025-10-28 14:11:20,641 basehttp "GET / HTTP/1.1" 200 1663
+INFO 2025-10-28 14:11:23,961 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2025-10-28 14:11:25,626 log Not Found: /favicon.ico
+WARNING 2025-10-28 14:11:25,632 basehttp "GET /favicon.ico HTTP/1.1" 404 2689
+INFO 2025-10-28 14:11:41,215 basehttp "GET /admin/ HTTP/1.1" 200 10191
+INFO 2025-10-28 14:11:52,920 basehttp "GET /admin/ HTTP/1.1" 200 10191
+INFO 2025-10-28 14:12:05,699 basehttp "GET /admin/central_reviews/categoria/ HTTP/1.1" 200 11081
+INFO 2025-10-28 14:12:09,254 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-28 14:12:19,843 basehttp "GET /admin/central_reviews/review/ HTTP/1.1" 200 11455
+INFO 2025-10-28 14:12:24,148 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-28 14:13:27,867 basehttp "GET /admin/central_reviews/tenis/ HTTP/1.1" 200 10782
+INFO 2025-10-28 14:13:35,953 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 8514
+INFO 2025-10-28 14:14:30,568 basehttp "GET / HTTP/1.1" 200 1663
+INFO 2025-10-28 14:14:30,864 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:14:51,770 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 2051
+INFO 2025-10-28 14:17:45,898 basehttp "GET /accounts/tenis/1/ HTTP/1.1" 200 2051
+INFO 2025-10-28 14:17:46,191 basehttp "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-10-28 14:17:58,706 basehttp "GET /accounts/review/2/editar/ HTTP/1.1" 200 1905
