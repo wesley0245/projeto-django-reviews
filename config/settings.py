@@ -145,7 +145,6 @@ LOGOUT_REDIRECT_URL = '/'
 
 
 # CONFIGURAÇÃO DE LOGGING
-# -----------------------------------------------------------------
 
 LOGGING = {
     'version': 1,
@@ -163,7 +162,7 @@ LOGGING = {
         },
     },
     
-    # Define onde os logs serão salvos (ex: console, arquivo)
+    # Define onde os logs serão salvos 
     'handlers': {
         'console': {
             'level': 'DEBUG',
@@ -195,5 +194,3 @@ LOGGING = {
         },
     },
 }
-# -----------------------------------------------------------------
-# FIM DA CONFIGURAÇÃO DE LOGGING
